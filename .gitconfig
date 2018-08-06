@@ -1,0 +1,7 @@
+[user]
+	username = dnicolodi
+	name = Daniele Nicolodi
+[commit]
+	gpgsign = true
+[aliases]
+	github = dnicolodi
